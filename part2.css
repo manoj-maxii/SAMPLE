@@ -1,0 +1,17 @@
+.navbar{
+    width:auto;
+    background-color: black; color: white;
+    display: flex;
+    justify-content:space-between;
+}
+ul{
+    display: flex;
+}
+li{
+    margin:4px;
+    list-style:none;
+    border-color:white; border-width:1px; border-style:solid; border-radius:20px;
+    padding:5px;
+    width:50px;
+    text-align:center;
+}
